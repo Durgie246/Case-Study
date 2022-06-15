@@ -1,0 +1,42 @@
+#header
+{
+    font-size: 23px;
+    width: 100%
+}
+
+body
+{
+    background-color:lightblue;
+}
+
+.result_para_tag
+{
+    background-color: lightseagreen;
+    color: blue;
+    width: 450px;
+    margin-left: 310px;
+    
+    
+ 
+}
+
+#result
+{
+    color: blue;
+    background-color: lightseagreen;
+    width:500px;
+    margin-left:  310px;
+    
+}
+
+img
+{
+width: 300px;
+
+}
+
+#span
+{
+margin-bottom: 500px;
+}
+
